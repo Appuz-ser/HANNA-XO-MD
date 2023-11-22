@@ -1,8 +1,8 @@
 FROM node:lts-buster
 
-RUN git clone https://github.com/Viper-X0/X-AsenaDuplicated/ /root/X
+RUN git clone https://github.com/ABHIIY-BRO/HANNA-XO-MD/ /root/Abhiiy
 
-WORKDIR /root/X
+WORKDIR /root/Abhiiy
 
 RUN apt-get update && \
   apt-get install -y \
