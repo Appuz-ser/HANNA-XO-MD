@@ -18,6 +18,7 @@
         "file-type": "^16.5.3",
         "fluent-ffmpeg": "^2.1.2",
         "got": "^11.8.2",
+        "heroku-client": "3.1.0",
         "node-fetch": "^2.0.0",
         "node-webpmux": "^3.1.7",
         "pastebin-js": "^1.0.6",
