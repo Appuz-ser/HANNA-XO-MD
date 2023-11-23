@@ -5,5 +5,5 @@
 *Support On Heroku*
 
 
-###Thanks To
-- [Badan Gay 🏳️‍🌈](https://github.com/kingbadan321)
+### Plugins By 
+- [Badan Ikkku](https://github.com/kingbadan321)
