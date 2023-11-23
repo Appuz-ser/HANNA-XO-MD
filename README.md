@@ -6,4 +6,4 @@
 
 
 ###Thanks To
-[Badan Gay 🏳️‍🌈](
+- [Badan Gay 🏳️‍🌈](https://github.com/kingbadan321)
