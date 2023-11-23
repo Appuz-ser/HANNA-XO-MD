@@ -6,8 +6,8 @@
 
 
 ### Plugins By 
-- [𝗭𝗲𝘁𝗮𝗮𝗮𝗵](https://github.com/kingbadan321)
+- [𝐙ᴇᴛᴀᴀᴀʜ](https://github.com/kingbadan321)
 
 ### Maded By
-- [𝗛𝗮𝗻𝗻𝗻𝗮𝗮𝗵 𝗢𝘄𝗼](https://github.com/hanna-owo)
-- [𝗭𝗲𝘁𝗮𝗮𝗮𝗵](https://github.com/kingbadan321)
+- [𝐇ᴀɴɴɴᴀᴀᴀʜ](https://github.com/hanna-owo)
+- [𝐙ᴇᴛᴀᴀᴀʜ](https://github.com/kingbadan321)
