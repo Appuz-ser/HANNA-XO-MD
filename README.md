@@ -6,8 +6,8 @@ _COMING SOON MULTI DEVICE BOT_
 
 
 ### Plugins By 
-- [🇧 🇦 🇩 🇦 🇳 ](https://github.com/kingbadan321)
+- [𝗭𝗲𝘁𝗮𝗮𝗮𝗵](https://github.com/kingbadan321)
 
 ### Maded By
-- [🇭 🇦 🇳 🇳 🇦 ](https://github.com/Abhiiiyh)
-- [🇧 🇦 🇩 🇦 🇳 🇦 ](https://github.com/kingbadan321)
+- [𝗛𝗮𝗻𝗻𝗻𝗮𝗮𝗵 𝗢𝘄𝗼](https://github.com/Abhiiiyh)
+- [𝗭𝗲𝘁𝗮𝗮𝗮𝗵](https://github.com/kingbadan321)
