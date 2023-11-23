@@ -25,9 +25,9 @@ command(
         Config.BRANCH + "..origin/" + Config.BRANCH,
       ]);
       if (commits.total === 0) {
-        return await message.sendMessage("_Already on latest version_");
+        return await message.sendMessage("*Bot Is Up-to-Date*");
       } else {
-        await message.reply("_Update Started_");
+        await message.reply("*Update Started*");
 
         try {
           var app = await heroku.get("/apps/" + Config.HEROKU_APP_NAME);
@@ -57,7 +57,7 @@ command(
     await git.fetch();
     var commits = await git.log([Config.BRANCH + "..origin/" + Config.BRANCH]);
     if (commits.total === 0) {
-      await message.sendMessage("_Already Updated_ ");
+      await message.sendMessage("*No Updates Available*");
     } else {
       var availupdate = "*ᴜᴘᴅᴀᴛᴇs ᴀʀᴇ ᴀᴠᴀɪʟᴀʙʟᴇ* \n\n";
       commits["all"].map((commit, num) => {
