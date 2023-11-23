@@ -1,4 +1,4 @@
->const got = require("got");
+const got = require("got");
 const Heroku = require("heroku-client");
 const { command, isPrivate } = require("../lib/");
 const Config = require("../config");
