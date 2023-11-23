@@ -6,8 +6,8 @@ _COMING SOON MULTI DEVICE BOT_
 
 
 ### Plugins By 
-- [Badan Ikkku](https://github.com/kingbadan321)
+- [𝗕𝗔𝗗𝗔𝗡 𝗜𝗞𝗞𝗞𝗔𝗛𝗛🫦](https://github.com/kingbadan321)
 
 ### Maded By
-- [Rifaaah](https://github.com/ABHIIY-BRO)
-- [Badan Ikku](https://github.com/kingbadan321)
+- [𝗛𝗔𝗡𝗡𝗔 𝗢𝗪𝗘](https://github.com/Abhiiiyh)
+- [𝗕𝗔𝗗𝗔𝗡 𝗜𝗞𝗞𝗞𝗔𝗛𝗛🫦](https://github.com/kingbadan321)
