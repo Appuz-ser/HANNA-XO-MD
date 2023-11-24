@@ -109,7 +109,7 @@ HANNA-XO-MD - Abhiiyh
 
 command(
   {
-    pattern: "getexif",
+    pattern: "exif",
     fromMe: true,
     desc: "description",
     type: "type",
