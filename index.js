@@ -74,9 +74,9 @@ const {
                     });
                     console.log("HANNA-MD IS STARTED");
 
-                    let str = `\`\`\`hanna connected \nversion : ${
+                    let str = `\`\`\`HANNA MD IS STARTED \n\nVERSION : ${
                     require(__dirname + "/package.json").version
-                    }\nTotal Plugins : ${plugins.commands.length}\nWorktype: ${
+                    }\n\nTotal Plugins : ${PLUGINS.commands.length}\n\n:WORK TYPE${
                     config.WORK_TYPE
                     }\`\`\``;
                     conn.sendMessage(conn.user.id,
