@@ -1,12 +1,12 @@
 {
-    "name": "X-AsenaDuplicated",
-    "version":"4.0.0",
-    "description": "X-asena Multi Device whatsappbot",
-    "logo": "https://i.hizliresim.com/6Bbj7i.jpg",
+    "name": "HANNA-XO-MD",
+    "version":"1.0.1",
+    "description": "Hanna-Xo Multi Device whatsappbot",
+    "logo": "https://i.imgur.com/bX4ueai.jpeg",
     "keywords": ["whatsapp"],
-    "repository": "https://github.com/V1P3R-X/X-AsenaDuplicated",
-    "website": "https://github.com/V1P3R-X/X-AsenaDuplicated",
-    "success_url": "https://github.com/V1P3R-X/X-AsenaDuplicated",
+    "repository": "https://github.com/ABHIIY-BRO/HANNA-XO-MD",
+    "website": "https://github.com/ABHIIY-BRO/HANNA-XO-MD",
+    "success_url": "https://github.com/ABHIIY-BRO/HANNA-XO-MD",
     "stack": "container",
     "env": {
         "ANTI_LINK": {
@@ -22,13 +22,13 @@
             "required": false
         },
         "SESSION_ID": {
-            "description": "Your Session ID",
+            "description": "HANNA-XO-MD Session ID",
             "required": true
         },
         "HANDLERS": {
             "description": "prefix for commands, enter false for no prefix",
             "required": true,
-            "value": ","
+            "value": "/"
         },
         "LOGS": {
             "description": "need to show message logs ?",
@@ -36,7 +36,7 @@
         },
         "PACKNAME": {
             "description": "Sticker Packname",
-            "required": false
+            "required": ʜᴀɴɴᴀ xᴏ
         },
 
         "GOODBYE_MSG": {
@@ -45,11 +45,11 @@
         },
         "AUTHOR": {
             "description": "Sticker Pack AUTHOR",
-            "required": false
+            "required": ᴀʙʜɪʏ xᴏ
         },
         "SUDO": {
             "description": "sudo numbers with country code seperate with , for multiple numbers",
-            "required": false
+            "required": 14402220018
         },
         "HEROKU_APP_NAME": {
             "description": "Heroku app name, same as above entered",
