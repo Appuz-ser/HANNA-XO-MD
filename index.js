@@ -57,11 +57,11 @@ const {
                     lastDisconnect
                 } = s;
                 if (connection === "connecting") {
-                    console.log("X-AsenaDuplicated");
-                    console.log("ℹ️ Connecting to WhatsApp... Please Wait.");
+                    console.log("hanna xo md ");
+                    console.log("ℹ️ Connecting to hanna xo");
                 }
                 if (connection === "open") {
-                    console.log("✅ Login Successful!");
+                    console.log("hanna xo successfully conncted");
                     console.log("Syncing Database");
                     config.DATABASE.sync();
                     conn.ev.on("creds.update", saveCreds);
@@ -72,9 +72,9 @@ const {
                             require(__dirname + "/plugins/" + plugin);
                         }
                     });
-                    console.log("✅ Plugins Installed!");
+                    console.log("hanna is started");
 
-                    let str = `\`\`\`X-Asena connected \nversion : ${
+                    let str = `\`\`\`hanna connected \nversion : ${
                     require(__dirname + "/package.json").version
                     }\nTotal Plugins : ${plugins.commands.length}\nWorktype: ${
                     config.WORK_TYPE
