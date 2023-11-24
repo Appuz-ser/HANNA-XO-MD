@@ -58,21 +58,21 @@ const {
                 } = s;
                 if (connection === "connecting") {
                     console.log("hanna xo md ");
-                    console.log("ℹ️ Connecting to hanna xo");
+                    console.log("HANNA-XO-MD IS CONNCTING");
                 }
                 if (connection === "open") {
-                    console.log("hanna xo successfully conncted");
+                    console.log("HANNA-XO-MD successfully conncted");
                     console.log("Syncing Database");
                     config.DATABASE.sync();
                     conn.ev.on("creds.update", saveCreds);
 
-                    console.log("⬇️  Installing Plugins...");
+                    console.log("Installing Plugins...");
                     fs.readdirSync(__dirname + "/plugins").forEach((plugin) => {
                         if (path.extname(plugin).toLowerCase() == ".js") {
                             require(__dirname + "/plugins/" + plugin);
                         }
                     });
-                    console.log("hanna is started");
+                    console.log("HANNA-MD IS STARTED");
 
                     let str = `\`\`\`hanna connected \nversion : ${
                     require(__dirname + "/package.json").version
