@@ -74,9 +74,9 @@ const {
                     });
                     console.log("HANNA-MD IS STARTED");
 
-                    let str = `\`\`\`HANNA MD IS STARTED \n\nVERSION : ${
+                    let str = `\`\`\`𝐇𝐀𝐍𝐍𝐀 𝐗𝐎 𝐌𝐃 𝐒𝐓𝐀𝐑𝐓𝐄𝐃 \n\n*VERSION* : ${
                     require(__dirname + "/package.json").version
-                    }\n\nPLUGINS : ${plugins.commands.length}\n\nWORK TYPE : ${
+                    }\n*PLUGINS* : ${plugins.commands.length}\n*WORK TYPE* : ${
                     config.WORK_TYPE
                     }\`\`\``;
                     conn.sendMessage(conn.user.id,
