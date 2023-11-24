@@ -1,4 +1,4 @@
->const config = require("../config");
+const config = require("../config");
 const { command, isPrivate, getJson, sleep, tiny } = require("../lib/");
 const { Image } = require("node-webpmux");
 
