@@ -61,7 +61,7 @@ command(
     } else {
       var availupdate = "*ᴜᴘᴅᴀᴛᴇs ᴀʀᴇ ᴀᴠᴀɪʟᴀʙʟᴇ* \n\n";
       commits["all"].map((commit, num) => {
-        availupdate += num + 1 + " ❑ " + (commit.message) + "\n";
+        availupdate += num + 1 + " ⋆ " + (commit.message) + "\n";
       });
       return await message.client.sendMessage(message.jid, {
         text: availupdate,
