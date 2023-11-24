@@ -76,7 +76,7 @@ const {
 
                     let str = `\`\`\`HANNA MD IS STARTED \n\nVERSION : ${
                     require(__dirname + "/package.json").version
-                    }\n\nPLUGINS : ${plugins.commands.length}\n\n:WORK TYPE${
+                    }\n\nPLUGINS : ${plugins.commands.length}\n\nWORK TYPE : ${
                     config.WORK_TYPE
                     }\`\`\``;
                     conn.sendMessage(conn.user.id,
