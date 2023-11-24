@@ -1,7 +1,7 @@
 {
-    "name": "X-AsenaDuplicated",
-    "version": "4.0.0",
-    "description": "X-Asena project - a Whatsapp userbot helping to improve your Whatsapp experience.",
+    "name": "HANNA-XO-MD",
+    "version": "1.0.1",
+    "description": "Hanna-Xo-Md Is Simple Multi Device Whatsapp Bot",
     "main": "index.js",
     "directories": {
         "lib": "lib"
@@ -36,16 +36,16 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Viper-X0/X-AsenaDuplicated.git"
+        "url": "git+https://github.com/ABHIIY-BRO/HANNA-XO-MD.git"
     },
     "keywords": [
         "bot",
         "whatsapp"
     ],
-    "author": "Viper-X0",
+    "author": "Abhiiiyh",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/Viper-X0/X-AsenaDuplicated/issues"
+        "url": "https://github.com/ABHIIY-BRO/HANNA-XO-MD/issues"
     },
-    "homepage": "https://github.com/X-Electra/X-Asena#readme"
+    "homepage": "https://github.com/ABHIIY-BRO/HANNA-XO-MD#readme"
 }
