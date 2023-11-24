@@ -72,7 +72,7 @@ const {
                             require(__dirname + "/plugins/" + plugin);
                         }
                     });
-                    console.log("HANNA-MD IS STARTED");
+                    console.log("HANNA MD IS STARTED");
 
                     let str = `\`\`\`HANNA MD STARTED \n\nVERSION : ${
                     require(__dirname + "/package.json").version
