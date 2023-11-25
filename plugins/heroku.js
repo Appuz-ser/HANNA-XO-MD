@@ -16,4 +16,19 @@ you may not use this file except in compliance with the License.
 HANNA-XO-MD - Abhiiyh
 */
 
+command(
+  {
+    pattern: "restart",
+    fromMe: true,
+    type: "heroku",
+    desc: "Restart Dyno",
+    type: "heroku",
+  },
+  async (message) => {
+    await message.sendMessage(`*Restarting*`);
+    await heroku.delete(baseURI + "/dynos").catch(async (error) => {
+      await message.sendMessage(`HEROKU : ${error.body.message}`);
+    });
+  }
+);
 
