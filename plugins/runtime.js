@@ -9,7 +9,7 @@ HANNA-XO-MD - Abhiiyh
 
 command(
 	{
-		pattern: "a",
+		pattern: "runtime",
 		desc: "Bot runtime",
 		fromMe: true,
 		type: "user"
