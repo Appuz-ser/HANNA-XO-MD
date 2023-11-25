@@ -31,6 +31,7 @@ module.exports = {
     HEROKU_API_KEY: process.env.HEROKU_API_KEY || '',
     OWNER_NAME: process.env.OWNER_NAME || 'ᴀʙʜɪʏ xᴏ',
     BOT_NAME: process.env.BOT_NAME || 'ʜᴀɴɴᴀ-xᴏ-ᴍᴅ',
+    BOT_INFO: process.env.BOT_INFO || '𝗛𝗔𝗡𝗡𝗔-𝗫𝗢-𝗠𝗗;𝗔𝗕𝗛𝗜𝗜𝗬;https://i.imgur.com/bX4ueai.jpeg',
     WORK_TYPE: process.env.WORK_TYPE || 'public',
     DATABASE_URL: DATABASE_URL,
     DATABASE: DATABASE_URL === './assets/database.db'
