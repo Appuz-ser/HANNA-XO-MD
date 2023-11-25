@@ -101,7 +101,7 @@ command(
       return await message.reply("_This command is for groups_");
     if (!isAdmin(message.jid, message.user, message.client))
       return await message.reply("_I'm not admin_");
-    await message.reply("*Unmuting*");
+    await message.reply("*Unmuted*");
     return await client.groupSettingUpdate(message.jid, "not_announcement");
   }
 );
