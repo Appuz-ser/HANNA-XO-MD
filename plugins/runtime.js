@@ -15,5 +15,5 @@ command(
 		type: "user"
 },
 async (conn, match) => {
-	await conn.reply(`*ʀᴜɴᴛɪᴍᴇ : ${runtime(process.uptime())}*`)
+	await conn.reply(`*Runtime : ${runtime(process.uptime())}*`)
 });
