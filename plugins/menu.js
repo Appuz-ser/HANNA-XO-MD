@@ -41,7 +41,7 @@ Description: ${i.desc}\`\`\``);
 ┃   │  *DATE*: ${date}
 ┃   │  *TIME*: ${time}
 ┃   │  *COMMANDS*: ${plugins.commands.length} 
-┃   │  *VERSION*: ${version}
+┃   │  *VERSION*: 1.0.1
 ┃   │  *MODE*: ${WORK_TYPE}
 ┃   ╰──────────────
 ╰━━━━━━━━━━━━━━━\n`;
