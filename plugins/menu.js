@@ -34,12 +34,16 @@ Description: ${i.desc}\`\`\``);
       let [date, time] = new Date()
         .toLocaleString("en-IN", { timeZone: "Asia/Kolkata" })
         .split(",");
-      let menu = `╭━━━〔 ${BOT_INFO.split(";")[0]} 〕
-┃ ⎆  *OWNER*:  ${BOT_INFO.split(";")[1]}
-┃ ⎆  *PREFIX*: ${prefix}
-┃ ⎆  *DATE*: ${date}
-┃ ⎆  *TIME*: ${time}
-┃ ⎆  *COMMANDS*: ${plugins.commands.length} 
+      let menu = `╭━━━〔 ${BOT_INFO.split(";")[0]} 〕━━━┈
+┃   ╭──────────────
+┃   │  *OWNER*:  ${BOT_INFO.split(";")[1]}
+┃   │  *PREFIX*: ${prefix}
+┃   │  *DATE*: ${date}
+┃   │  *TIME*: ${time}
+┃   │  *COMMANDS*: ${plugins.commands.length} 
+┃   │  *VERSION*: ${version}
+┃   │  *MODE*: ${WORK_TYPE}
+┃   ╰──────────────
 ╰━━━━━━━━━━━━━━━\n`;
       let cmnd = [];
       let cmd;
