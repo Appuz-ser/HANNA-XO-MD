@@ -43,7 +43,7 @@ Description: ${i.desc}\`\`\``);
 ┃  ✺ │  *COMMANDS*: ${plugins.commands.length} 
 ┃  ✺ │  *VERSION*: 1.0.1
 ┃  ✺ │  *RAM*:14.8 GB/ 62.77 GB
-┃  ✺ │  *PLATFROM:linux
+┃  ✺ │  *PLATFROM*:linux
 ┃    ╰──────────────
 ╰━━━━━━━━━━━━━━━\n\n\n`;
       let cmnd = [];
