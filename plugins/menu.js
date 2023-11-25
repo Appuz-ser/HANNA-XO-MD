@@ -35,16 +35,15 @@ Description: ${i.desc}\`\`\``);
         .toLocaleString("en-IN", { timeZone: "Asia/Kolkata" })
         .split(",");
       let menu = `╭━━━〔 ${BOT_INFO.split(";")[0]} 〕━━━┈
-┃   ╭──────────────
-┃   │  *OWNER*:  ${BOT_INFO.split(";")[1]}
-┃   │  *PREFIX*: ${prefix}
-┃   │  *DATE*: ${date}
-┃   │  *TIME*: ${time}
-┃   │  *COMMANDS*: ${plugins.commands.length} 
-┃   │  *VERSION*: 1.0.1
-┃   │  *MODE*: ${WORK_TYPE}
-┃   ╰──────────────
-╰━━━━━━━━━━━━━━━\n`;
+┃    ╭──────────────
+┃  • │  *OWNER*:  ${BOT_INFO.split(";")[1]}
+┃  • │  *PREFIX*: ${prefix}
+┃  • │  *DATE*: ${date}
+┃  • │  *TIME*: ${time}
+┃  • │  *COMMANDS*: ${plugins.commands.length} 
+┃  • │  *VERSION*: 1.0.1
+┃    ╰──────────────
+╰━━━━━━━━━━━━━━━\n\n\n`;
       let cmnd = [];
       let cmd;
       let category = [];
@@ -63,7 +62,7 @@ Description: ${i.desc}\`\`\``);
       });
       cmnd.sort();
       category.sort().forEach((cmmd) => {
-        menu += `\n\t───── *${cmmd.toUpperCase()}* ─────➛`;
+        menu += `\n\t─────────── *${cmmd.toUpperCase()}* ───────────`;
         let comad = cmnd.filter(({ type }) => type == cmmd);
         comad.forEach(({ cmd }) => {
           menu += `\n⛥  ${cmd.trim()}`;
