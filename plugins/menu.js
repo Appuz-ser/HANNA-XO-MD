@@ -36,12 +36,12 @@ Description: ${i.desc}\`\`\``);
         .split(",");
       let menu = `╭━━━〔 ${BOT_INFO.split(";")[0]} 〕━━━┈
 ┃    ╭──────────────
-┃  • │  *OWNER*:  ${BOT_INFO.split(";")[1]}
-┃  • │  *PREFIX*: ${prefix}
-┃  • │  *DATE*: ${date}
-┃  • │  *TIME*: ${time}
-┃  • │  *COMMANDS*: ${plugins.commands.length} 
-┃  • │  *VERSION*: 1.0.1
+┃  ✺ │  *OWNER*:  ${BOT_INFO.split(";")[1]}
+┃  ✺ │  *PREFIX*: ${prefix}
+┃  ✺ │  *DATE*: ${date}
+┃  ✺ │  *TIME*: ${time}
+┃  ✺ │  *COMMANDS*: ${plugins.commands.length} 
+┃  ✺ │  *VERSION*: 1.0.1
 ┃    ╰──────────────
 ╰━━━━━━━━━━━━━━━\n\n\n`;
       let cmnd = [];
