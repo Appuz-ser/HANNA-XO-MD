@@ -42,6 +42,8 @@ Description: ${i.desc}\`\`\``);
 ┃  ✺ │  *TIME*: ${time}
 ┃  ✺ │  *COMMANDS*: ${plugins.commands.length} 
 ┃  ✺ │  *VERSION*: 1.0.1
+┃  ✺ │  *RAM*:14.8 GB/ 62.77 GB
+┃  ✺ │  *PLATFROM:linux
 ┃    ╰──────────────
 ╰━━━━━━━━━━━━━━━\n\n\n`;
       let cmnd = [];
@@ -52,7 +54,7 @@ Description: ${i.desc}\`\`\``);
           cmd = command.pattern.toString().split(/\W+/)[1];
         }
 
-        if (!command.dontAddCommandList && cmd !== undefined) {
+        if (!command.dontAddCommandList  && cmd !== undefined) {
           let type = command.type ? command.type.toLowerCase() : "misc";
 
           cmnd.push({ cmd, type });
@@ -62,10 +64,10 @@ Description: ${i.desc}\`\`\``);
       });
       cmnd.sort();
       category.sort().forEach((cmmd) => {
-        menu += `\n\t─────────── *${cmmd.toUpperCase()}* ───────────`;
+        menu += `\n\t「*${cmmd.toUpperCase()}*」`;
         let comad = cmnd.filter(({ type }) => type == cmmd);
         comad.forEach(({ cmd }) => {
-          menu += `\n⛥  ${cmd.trim()}`;
+          menu += `\n||•➛  ${cmd.trim()}`;
         });
         menu += `\n`;
       });
