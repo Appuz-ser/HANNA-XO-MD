@@ -19,9 +19,9 @@ command(
     let res = await getBuffer(`${igdl.data.data[0].url}`)
     let mtype = igdl.data.data[0].type;
       if(mtype == "video"){
-       await message.client.sendMessage(message.jid, { video :res ,  mimetype:"video/mp4"}, {quoted: message })
+       await message.client.sendMessage(message.jid, { video :res ,  mimetype:"video/mp4"}, {quoted: m })
       } else if(mtype == "image"){
-      await message.client.sendMessage(message.jid, { image :res ,  mimetype:"image/jpeg"}, {quoted: message })
+      await message.client.sendMessage(message.jid, { image :res ,  mimetype:"image/jpeg"}, {quoted: m })
 }
              
 });
