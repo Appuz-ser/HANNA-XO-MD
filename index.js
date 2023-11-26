@@ -58,10 +58,10 @@ const {
                 } = s;
                 if (connection === "connecting") {
                     console.log("hanna xo md ");
-                    console.log("HANNA-XO-MD IS CONNCTING");
+                    console.log("HANNA IS CONNCTING");
                 }
                 if (connection === "open") {
-                    console.log("HANNA-XO-MD successfully conncted");
+                    console.log("HANNA IS successfully conncted");
                     console.log("Syncing Database");
                     config.DATABASE.sync();
                     conn.ev.on("creds.update", saveCreds);
@@ -74,9 +74,9 @@ const {
                     });
                     console.log("HANNA MD IS STARTED");
 
-                    let str = `\`\`\`HANNA MD STARTED \n\nVERSION : ${
+                    let str = `\`\`\`𝐇𝐀𝐍𝐍𝐀 𝐌𝐃 𝐒𝐓𝐀𝐑𝐓𝐄𝐃 \n\n\n\n*ᴠᴇʀsɪᴏɴ* : ${
                     require(__dirname + "/package.json").version
-                    }\nPLUGINS : ${plugins.commands.length}\nMODE : ${
+                    }\n*ᴘʟᴜɢɪɴs* : ${plugins.commands.length}\n*ᴍᴏᴅᴇ* : ${
                     config.WORK_TYPE
                     }\`\`\``;
                     conn.sendMessage(conn.user.id,
