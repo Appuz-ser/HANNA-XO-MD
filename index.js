@@ -74,7 +74,7 @@ const {
                     });
                     console.log("HANNA MD IS STARTED");
 
-                    let str = `\`\`\`\n\n\n\n𝐇𝐀𝐍𝐍𝐀 𝐌𝐃 𝐒𝐓𝐀𝐑𝐓𝐄𝐃 \n\n\n\n𝗩𝗘𝗥𝗦𝗜𝗢𝗡 : ${
+                    let str = `\`\`\`\n\n\n\n✰𝐇𝐀𝐍𝐍𝐀 𝐌𝐃 𝐒𝐓𝐀𝐑𝐓𝐄𝐃✰ \n\n\n\n𝗩𝗘𝗥𝗦𝗜𝗢𝗡 : ${
                     require(__dirname + "/package.json").version
                     }\n𝗣𝗟𝗨𝗚𝗜𝗡𝗦 : ${plugins.commands.length}\n𝗠𝗢𝗗𝗘 : ${
                     config.WORK_TYPE
