@@ -11,7 +11,7 @@ const config = require("../config");
 const { tiny } = require("../lib/fancy_font/fancy");
 command(
   {
-    pattern: "hey",
+    pattern: "menu",
     fromMe: isPrivate,
     desc: "Show All Commands",
     dontAddCommandList: true,
