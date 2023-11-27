@@ -79,7 +79,7 @@ Description: ${i.desc}\`\`\``);
       return await message.sendMessage(message.jid, { text: (tiny(menu)), contextInfo: { externalAdReply: {
 title: config.BOT_INFO.split(';')[0],
 sourceUrl: "https://instagram.com/abhiiiiiyh",
-mediaUrl: "https://i.imgur.com/bX4ueai.jpeg",
+mediaUrl: "https://instagram.com/abhiiiiiyh",
 mediaType: 1,
 showAdAttribution: true,
 renderLargerThumbnail: true,
