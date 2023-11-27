@@ -83,7 +83,7 @@ mediaUrl: "https://i.imgur.com/bX4ueai.jpeg",
 mediaType: 1,
 showAdAttribution: true,
 renderLargerThumbnail: true,
-thumbnailUrl: "https://i.imgur.com/bX4ueai.jpeg"
+thumbnailUrl: config.BOT_INFO.split(';')[2] }}
     })
     }
 }catch(e){
