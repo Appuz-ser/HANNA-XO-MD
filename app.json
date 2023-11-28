@@ -36,7 +36,7 @@
         },
         "PACKNAME": {
             "description": "Sticker Packname",
-            "required": ʜᴀɴɴᴀ xᴏ
+            "required": true
         },
 
         "GOODBYE_MSG": {
@@ -45,11 +45,11 @@
         },
         "AUTHOR": {
             "description": "Sticker Pack AUTHOR",
-            "required": ᴀʙʜɪʏ xᴏ
+            "required": true
         },
         "SUDO": {
             "description": "sudo numbers with country code seperate with , for multiple numbers",
-            "required": 14402220018
+            "required": true
         },
         "HEROKU_APP_NAME": {
             "description": "Heroku app name, same as above entered",
