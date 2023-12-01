@@ -29,7 +29,8 @@
         "x-asena": "^1.0.1",
         "yt-search": "^2.10.4",
         "ytdl-core": "^4.11.4",
-        "simple-git": "^3.7.1"
+        "simple-git": "^3.7.1",
+        "raganork-bot": "^3.0.1"
     },
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
