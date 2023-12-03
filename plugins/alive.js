@@ -2,7 +2,7 @@ const { command ,isPrivate} = require("../lib/");
 const config = require('../config.js')
 
 command({
-  pattern: "alivejs",
+  pattern: "alive",
   fromMe: isPrivate,
   desc: "Tst",
   type: "misc",
