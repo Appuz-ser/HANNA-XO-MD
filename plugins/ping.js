@@ -6,7 +6,7 @@ const {
 } = require("@viper-x/fancytext")
 command(
     {
-        pattern: "pong",
+        pattern: "ping",
         fromMe: true,
         desc: "To check ping",
         type: "misc",
@@ -19,7 +19,7 @@ var speed = end - start;
  
 await new Promise(t => setTimeout(t,0))
          await message.client.sendMessage(message.jid,{text:`
-*Ping!* 
-*Pong:${speed}ms*
+*ᴘɪɴɢ* 
+*ʟᴀᴛᴇɴᴄʏ:${speed}ᴍs*
 ` , edit: key});
 })
