@@ -10,10 +10,10 @@ command(
   },
   async (message, match,m) => {
     if (!message.reply_message.image)
-      return await message.reply("_Reply to a photo_");
+      return await message.reply("*Reply to a photo*");
     let media = await m.quoted.download();
     await updateProfilePicture(message.user, media, message);
-    return await message.reply("_Profile Picture Updated_");
+    return await message.reply("*Profile Picture Updated*");
   }
 );
 
