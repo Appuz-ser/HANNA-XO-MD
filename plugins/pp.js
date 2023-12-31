@@ -1,5 +1,6 @@
 const { command } = require("../lib/");
 const Jimp = require("jimp");
+
  command(
   {
     pattern: "setpp",
