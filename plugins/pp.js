@@ -4,6 +4,7 @@ const Jimp = require("jimp");
   {
     pattern: "setpp",
     fromMe: true,
+    desc: "set profile picture",
     type: "user",
   },
   async (message, match, m) => {
