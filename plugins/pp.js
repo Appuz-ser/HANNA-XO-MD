@@ -12,6 +12,6 @@ const Jimp = require("jimp");
       return await message.reply("_Reply To A Photo_");
     let buff = await m.quoted.download();
     await message.setPP(message.user, buff);
-    return await message.reply("_Profile Picture Updated ✅_");
+    return await message.reply("*Profile Picture Updated*");
   }
 );
