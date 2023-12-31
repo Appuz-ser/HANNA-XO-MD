@@ -4,7 +4,7 @@ const Jimp = require("jimp");
   {
     pattern: "setpp",
     fromMe: true,
-    type: "owner",
+    type: "user",
   },
   async (message, match, m) => {
     if (!message.reply_message.image)
