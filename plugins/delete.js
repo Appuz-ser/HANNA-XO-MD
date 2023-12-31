@@ -1,9 +1,9 @@
->const { command } = require("../lib");
+const { command } = require("../lib");
 
-/* Copyright (C) 2022 X-Electra.
+/* Copyright (C) 2024 Abhiy.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-X-Asena - X-Electra
+HANNA-XO-MD - Abhiy
 */
 
 command(
