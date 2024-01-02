@@ -20,6 +20,7 @@
         "got": "^11.8.2",
         "g-i-s": "^2.1.7",
         "heroku-client": "^3.1.0",
+        "@neeraj-x0/textpro": "^1.0.3",
         "node-fetch": "^2.0.0",
         "node-webpmux": "^3.1.7",
         "pastebin-js": "^1.0.6",
