@@ -10,12 +10,12 @@ Fork The Repo
 
 #### Scan QR Code
 
-<a href="https://phoenix-md-qr-8a4089698c5e.herokuapp.com/"><img title="Phoenix-MD Scan Qr" src="https://img.shields.io/badge/SCAN QR CODE 1-h?color=black&style=for-the-badge&logo=msi"></a>
+<a href="https://hanna-md-qr.vercel.app/"><img title="HANNA XO MD Scan Qr" src="https://img.shields.io/badge/SCAN QR CODE 1-h?color=cyan&style=for-the-badge&logo=msi"></a>
      <br>
-<a href="https://phoenix-md-qr-8a4089698c5e.herokuapp.com/session"><img title="Phoenix-MD Scan Qr" src="https://img.shields.io/badge/SCAN QR CODE 2-h?color=black&style=for-the-badge&logo=msi"></a>     
+<a href="https://qr-code-hanna-bace9e5bf704.herokuapp.com/"><img title="HANNA XO MD Scan Qr" src="https://img.shields.io/badge/SCAN QR CODE 2-h?color=cyan&style=for-the-badge&logo=msi"></a>     
 
 
-## Phoenix-MD Deploy Method
+## HANNA-XO-MD Deploy Method
 
 
 ### Deploy Codespace
