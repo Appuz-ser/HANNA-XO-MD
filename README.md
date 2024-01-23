@@ -10,7 +10,7 @@ Fork The Repo
 
 #### Scan QR Code
 
-<a href="https://hanna-md-qr.vercel.app/"><img title="HANNA XO MD Scan Qr" src="https://img.shields.io/badge/SCAN QR CODE 1-h?color=cyan&style=for-the-badge&logo=scan&logoColor=black"></a>
+<a href="https://hanna-md-qr.vercel.app/"><img title="HANNA XO MD Scan Qr" src="https://img.shields.io/badge/SCAN QR CODE 1-h?color=cyan&style=for-the-badge&logo=qr&logoColor=black"></a>
      <br>
 <a href="https://qr-code-hanna-bace9e5bf704.herokuapp.com/"><img title="HANNA XO MD Scan Qr" src="https://img.shields.io/badge/SCAN QR CODE 2-h?color=cyan&style=for-the-badge&logo=msi"></a>     
 
