@@ -18,7 +18,7 @@
 
 3. 𝐏𝐚𝐢𝐫 𝐂𝐨𝐝𝐞
    <br>
- <a href="https://hanna-pair.vercel.app/"><img title="HANNA XO MD Pair Code" src="https://img.shields.io/badge/SCAN PAIR CODE 2-h?color=cyan&style=for-the-badge&logo=qr&logoColor=black">  
+ <a href="https://hanna-pair.vercel.app/"><img title="HANNA XO MD Pair Code" src="https://img.shields.io/badge/PAIR CODE -h?color=cyan&style=for-the-badge&logo=qr&logoColor=black">  
 
 
 ### Deploy Heroku 
