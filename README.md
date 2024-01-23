@@ -7,7 +7,7 @@ HANNA-XO-MD - Simple whatsapp Multi Device whatsapp bot.
 
 1. Fork The Repo
    <br>
-<a href='github.com/ABHIIY-BRO/HANNA-XO-MD/fork' target="_blank"><img alt= 'FORK'  src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='github.com/ABHIIY-BRO/HANNA-XO-MD/fork' target="_blank"><img alt= 'FORK'  src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=cyan'/></a>
 
 ### SETUP
 
