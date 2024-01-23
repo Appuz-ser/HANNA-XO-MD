@@ -12,7 +12,7 @@ Fork The Repo
 
 <a href="https://hanna-md-qr.vercel.app/"><img title="HANNA XO MD Scan Qr" src="https://img.shields.io/badge/SCAN QR CODE 1-h?color=cyan&style=for-the-badge&logo=qr&logoColor=black"></a>
      <br>
-<a href="https://qr-code-hanna-bace9e5bf704.herokuapp.com/"><img title="HANNA XO MD Scan Qr" src="https://img.shields.io/badge/SCAN QR CODE 2-h?color=cyan&style=for-the-badge&logo=msi"></a>     
+<a href="https://qr-code-hanna-bace9e5bf704.herokuapp.com/"><img title="HANNA XO MD Scan Qr" src="https://img.shields.io/badge/SCAN QR CODE 2-h?color=cyan&style=for-the-badge&logo=qr&logoColor=black"></a>     
 
 
 ## HANNA-XO-MD Deploy Method
