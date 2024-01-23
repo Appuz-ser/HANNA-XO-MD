@@ -22,7 +22,7 @@
 
 2. 𝐍𝐨𝐰 𝐃𝐞𝐩𝐥𝐨𝐲
    <br>
-<a href="https://heroku.com/deploy?template=https://github.com/ABHIIY-BRO/HANNA-XO-MD/"><img title="HANNA XO MD  Deploy Heroku" src="https://img.shields.io/badge/DEPLOY-h?color=white&style=for-the-badge&logo=heroku"></a>
+<a href="https://heroku.com/deploy?template=https://github.com/ABHIIY-BRO/HANNA-XO-MD/"><img title="HANNA XO MD  Deploy Heroku" src="https://img.shields.io/badge/DEPLOY-h?color=white&style=for-the-badge&logo=heroku&logoCor=black"></a>
 
 
  
