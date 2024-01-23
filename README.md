@@ -25,6 +25,8 @@ Fork The Repo
     <br>
 <a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
+2. ɴᴏᴡ ᴅᴇᴘʟᴏʏ
+   <br>
 <a href="https://heroku.com/deploy?template=https://github.com/ABHIIY-BRO/HANNA-XO-MD/"><img title="HANNA XO MD  Deploy Heroku" src="https://img.shields.io/badge/DEPLOY HEROKU-h?color=black&style=for-the-badge&logo=heroku"></a>
 
 
