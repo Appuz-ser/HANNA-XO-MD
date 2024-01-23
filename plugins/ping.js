@@ -1,5 +1,6 @@
 const {
-    command
+    command,
+    isPrivate,
 } = require("../lib/");
 const {
     tiny
@@ -7,7 +8,7 @@ const {
 command(
     {
         pattern: "ping",
-        fromMe: true,
+        fromMe: isPrivate,
         desc: "To check ping",
         type: "user",
     },
