@@ -14,17 +14,13 @@
 <a href="https://qr-code-hanna-bace9e5bf704.herokuapp.com/"><img title="HANNA XO MD Scan Qr" src="https://img.shields.io/badge/SCAN QR CODE 2-h?color=cyan&style=for-the-badge&logo=qr&logoColor=black"></a>     
 
 
-## HANNA-XO-MD Deploy Method
-
-
-
 ### Deploy Heroku 
 
-1. ɪꜰ ʏᴏᴜ ᴅᴏɴ'ᴛ ʜᴀᴠᴇ ᴀ ᴀᴄᴄᴏᴜɴᴛ ɪɴ ʜᴇʀᴏᴋᴜ. ᴄʀᴇᴀᴛᴇ ᴀɴ ᴀᴄᴄᴏᴜɴᴛ.
+1. 𝐈𝐟 𝐘𝐨𝐮 𝐃𝐨𝐧’𝐭 𝐇𝐚𝐯𝐞 𝐀 𝐀𝐜𝐜𝐨𝐮𝐧𝐭 𝐈𝐧 𝐇𝐞𝐫𝐨𝐤𝐮. 𝐂𝐫𝐞𝐚𝐭𝐞 𝐀𝐧 𝐀𝐜𝐜𝐨𝐮𝐧𝐭.
     <br>
-<a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+<a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-darkyellow?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
-2. ɴᴏᴡ ᴅᴇᴘʟᴏʏ
+2. 𝐍𝐨𝐰 𝐃𝐞𝐩𝐥𝐨𝐲
    <br>
 <a href="https://heroku.com/deploy?template=https://github.com/ABHIIY-BRO/HANNA-XO-MD/"><img title="HANNA XO MD  Deploy Heroku" src="https://img.shields.io/badge/DEPLOY-h?color=black&style=for-the-badge&logo=heroku"></a>
 
