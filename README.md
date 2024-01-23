@@ -8,8 +8,10 @@
     <br>
 <a href="https://github.com/ABHIIY-BRO/HANNA-XO-MS/fork"><img title="HANNA-XO-MD" src="https://img.shields.io/badge/FORK HANNA XO MD-h?color=cyan&style=for-the-badge&logo=stackshare&logoColor=black"></a>
 
-#### Scan QR Code
+#### Scan 
 
+1. 𝐒𝐜𝐚𝐧 𝐐𝐫 𝐂𝐨𝐝𝐞
+   <br>
 <a href="https://hanna-md-qr.vercel.app/"><img title="HANNA XO MD Scan Qr" src="https://img.shields.io/badge/SCAN QR CODE 1-h?color=cyan&style=for-the-badge&logo=scanner&logoColor=black"></a>
      <br>
 <a href="https://qr-code-hanna-bace9e5bf704.herokuapp.com/"><img title="HANNA XO MD Scan Qr" src="https://img.shields.io/badge/SCAN QR CODE 2-h?color=cyan&style=for-the-badge&logo=qr&logoColor=black"></a>     
