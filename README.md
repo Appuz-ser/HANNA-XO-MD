@@ -12,7 +12,7 @@ HANNA-XO-MD - Simple whatsapp Multi Device whatsapp bot.
 
 1. Scan the QR and copy it
     <br>
-<a href='https://hanna-md-qr.vercel.app/' target="_blank"><img alt='SCAN QR - Server 1' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=car&logoColor=white&labelColor=black&color=cyan'/></a>
+<a href='https://hanna-md-qr.vercel.app/' target="_blank"><img alt='SCAN QR 1' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=car&logoColor=white&labelColor=black&color=cyan'/></a>
 
 #### DEPLOY TO HEROKU 
 
