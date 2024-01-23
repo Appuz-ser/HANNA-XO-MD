@@ -18,11 +18,11 @@
 
 1. 𝐈𝐟 𝐘𝐨𝐮 𝐃𝐨𝐧’𝐭 𝐇𝐚𝐯𝐞 𝐀 𝐀𝐜𝐜𝐨𝐮𝐧𝐭 𝐈𝐧 𝐇𝐞𝐫𝐨𝐤𝐮. 𝐂𝐫𝐞𝐚𝐭𝐞 𝐀𝐧 𝐀𝐜𝐜𝐨𝐮𝐧𝐭.
     <br>
-<a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-yellow?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+<a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-white?style=for-the-badge&logo=heroku&logoColor=black'/></a>
 
 2. 𝐍𝐨𝐰 𝐃𝐞𝐩𝐥𝐨𝐲
    <br>
-<a href="https://heroku.com/deploy?template=https://github.com/ABHIIY-BRO/HANNA-XO-MD/"><img title="HANNA XO MD  Deploy Heroku" src="https://img.shields.io/badge/DEPLOY-h?color=yellow&style=for-the-badge&logo=heroku"></a>
+<a href="https://heroku.com/deploy?template=https://github.com/ABHIIY-BRO/HANNA-XO-MD/"><img title="HANNA XO MD  Deploy Heroku" src="https://img.shields.io/badge/DEPLOY-h?color=white&style=for-the-badge&logo=heroku"></a>
 
 
  
