@@ -38,7 +38,7 @@ command(
     pattern: "tgs",
     fromMe: isPrivate,
     desc: "Download Sticker From Telegram",
-    type: "tool",
+    type: "downloader",
   },
   async (message, match) => {
     if (!match)
@@ -83,7 +83,7 @@ command(
     pattern: "take",
     fromMe: isPrivate,
     desc: "Changes Exif data of stickers",
-    type: "tool",
+    type: "converter",
   },
   async (message, match, m) => {
     if (!message.reply_message && !message.reply_message.sticker)
