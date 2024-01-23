@@ -4,7 +4,7 @@
 
 #### SETUP
 
-1. ꜰᴏʀᴋ ᴛʜᴇ ʀᴇᴘᴏ
+1. 𝐅𝐨𝐫𝐤 𝐓𝐡𝐞 𝐑𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐲
     <br>
 <a href="https://github.com/ABHIIY-BRO/HANNA-XO-MS/fork"><img title="HANNA-XO-MD" src="https://img.shields.io/badge/FORK HANNA XO MD-h?color=cyan&style=for-the-badge&logo=stackshare&logoColor=black"></a>
 
