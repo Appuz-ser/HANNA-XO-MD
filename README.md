@@ -2,7 +2,7 @@
 
 Fork The Repo
     <br>
-<a href="https://github.com/ABHIIY-BRO/HANNA-XO-MD/fork"><img title="HANNA-XO-MD" src="https://img.shields.io/badge/FORK HANNA-XO-MD-h?color=cyan&style=for-the-badge&logo=PEOPLE"></a>
+<a href="https://github.com/ABHIIY-BRO/HANNA-XO-MD/fork"><img title="HANNA-XO-MD" src="https://img.shields.io/badge/FORK HANNA-XO-MD-h?color=cyan&style=for-the-badge&logo=share"></a>
 
 #### Scan QR Code
 
