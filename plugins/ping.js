@@ -1,6 +1,6 @@
 const {
     command,
-    isPrivate,
+    isPrivate
 } = require("../lib/");
 const {
     tiny
