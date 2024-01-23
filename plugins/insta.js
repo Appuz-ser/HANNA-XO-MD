@@ -8,7 +8,7 @@ command(
         pattern: "insta",
         fromMe: isPrivate,
         desc: "Instagram Video/Photo Downloader",
-        type: "downloder",
+        type: "downloader",
     },
     async (message, match) => {
     	
