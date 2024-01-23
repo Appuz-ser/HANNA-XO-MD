@@ -9,7 +9,7 @@ command(
         pattern: "ping",
         fromMe: true,
         desc: "To check ping",
-        type: "misc",
+        type: "user",
     },
     async (message, match) => {
         const start = new Date().getTime();
