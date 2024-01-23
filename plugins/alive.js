@@ -4,8 +4,8 @@ const config = require('../config.js')
 command({
   pattern: "alive",
   fromMe: isPrivate,
-  desc: "Tst",
-  type: "misc",
+  desc: "bot is alive",
+  type: "user",
 
 },
 
